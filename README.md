@@ -80,7 +80,8 @@ public class program
 ```
 ## Output:
 
-![img](https://user-images.githubusercontent.com/75235554/173872556-6d7aff17-ddfc-4d01-97c1-e482da2998fa.jpg)
+![image](https://user-images.githubusercontent.com/75241366/173995731-6e7b9d34-459f-4c6b-817a-ebd05e16b036.png)
+
 
 ## Result:
 
